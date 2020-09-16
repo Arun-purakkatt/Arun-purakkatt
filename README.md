@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://www.linkedin.com/in/arun-purakkatt-mba-m-tech-31429367/?originalSubdomain=in
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...My first program was "Hello World"
+- My blog: ...https://medium.com/@arun.purakkatt
+
 -->
