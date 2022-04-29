@@ -4,7 +4,7 @@
 # Hi, there <img src= https://github.com/Arun-purakkatt/Arun-purakkatt/blob/master/wave.gif width="30px"> I am Arun Purakkatt,
 
 
-A Machine Learning Enginner/Data scientist passionate about data.I love building models with machine learning & Deep learning with "world's most valuable resource - Data".Currently working at HBiZ.
+A Machine Learning Enginner/Data scientist passionate about data.I love building models with machine learning & Deep learning with "world's most valuable resource - Data"
 
 
 ##  🔧 Technologies & Tools
